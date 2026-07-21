@@ -74,7 +74,7 @@ Highly analytical and detail-oriented **Biotechnology graduate** specializing in
 
 *Note: You can attach links to your GitHub repositories or live Power BI dashboards below.*
 
-- **[Project Title 1: Excel Data Cleaning & Power BI Dashboard]** — *Description of dataset, methodology, tools used, and key insights generated.*
+- **[Project Title 1: Data cleaning project in SQL]** — https://github.com/bhuvaneshwarvummitti-hue/industry-data-analysis/blob/main/Data%20cleaning%20project%20in%20sql.sql
 - **[Project Title 2: Python Data Analysis / SQL Querying]** — *Exploratory data analysis on structured datasets using Python and SQL.*
 
 
